@@ -1,0 +1,2 @@
+This is an example text with random content
+to analyze using this simple Python script
